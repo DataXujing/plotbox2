@@ -1,4 +1,4 @@
-from plotbox import *
+from plotbox2 import *
 import cv2
 
 image = cv2.imread("./test.jpg")
